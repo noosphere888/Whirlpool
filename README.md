@@ -39,7 +39,7 @@ Whirlpool requires the use of a blinded coordinator server to pass messages betw
 
 ### Mobile
 
-- [Samourai Wallet](https://samouraiwallet.com) [(Android)](https://play.google.com/store/apps/details?id=com.samourai.wallet)
+- [Samourai Wallet](https://samouraiwallet.com)
 
 ### Developers
 
@@ -47,10 +47,3 @@ Whirlpool requires the use of a blinded coordinator server to pass messages betw
 - Java and Android libraries can be found within the [`whirlpool-client`](https://github.com/noosphere888/whirlpool-client) repository.
 - A command line client is also available. You can find more information within the [`whirlpool-client-cli`](https://github.com/noosphere888/whirlpool/whirlpool-client-cli) repository.
 
-## Implementing Whirlpool into your products and services
-
-Samourai has strived to create a toolkit that can easily be implemented and embedded at any level of your existing technology or product stack. We would love to discuss how you plan to use Whirlpool within your own products and services and how we can help. Email us at implementations@samourai.io
-
-## Support
-
-If you appreciate our work and wish to support our continued efforts in providing free, unencumbered, open source code that enhances your sovereignty please consider a donation.
